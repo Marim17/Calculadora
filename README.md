@@ -1,3 +1,3 @@
 # Calculadora
 
-##Ações básicas de + - * /
+### Ações básicas de + - * /
